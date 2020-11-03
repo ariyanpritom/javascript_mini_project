@@ -1,0 +1,41 @@
+.heading{
+    text-align: center;
+    font-size: 75px;
+}
+
+.diceBox{
+    width: 700px;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    margin: 0 auto;
+}
+
+.leftBox{
+    flex-basis: 0 0 100px;
+    padding: 25px;
+}
+.rightBox{
+    flex-basis: 0 0 100px;
+    padding: 25px;
+}
+
+.mainHeading{
+    text-align: center;
+    font-size: 30px;
+    text-transform: capitalize;
+}
+
+.image{
+    width: 300px;
+    height: auto;
+    align-items: center;
+    justify-content: center;
+}
+
+.headingEnd{
+    text-align: center;
+    font-size: 30px;
+}
